@@ -1,0 +1,34 @@
+
+/*.contacts {*/
+/*    height: 100vh;*/
+/*    background-color: #ff2dc7;*/
+/*}*/
+.container  {
+    height: 100vh;
+    background-color: #ff9b9e;
+    display: flex;
+    justify-content: center;
+}
+
+.contacts{
+    width: 80%;
+    /*border: 1px solid;*/
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.contactsBlock{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+    width: 60%;
+    height: 80%;
+    align-items: stretch;
+}
+
+textarea{
+    height: 40%;
+    resize: none;
+}
