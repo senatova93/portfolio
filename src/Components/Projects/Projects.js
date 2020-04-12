@@ -7,6 +7,12 @@ function Projects() {
           <div className={styles.projects}>
               <h3>My projects</h3>
               <div className={styles.projectsBlock}>
+
+                  <div className={styles.project}>
+                      <img className={styles.projectPhoto} src='' />
+                      <h4>#1 project </h4>
+                  </div>
+
                   <div className={styles.project}>
                       <img className={styles.projectPhoto} src='' />
                       <h4>#1 project </h4>

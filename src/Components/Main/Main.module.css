@@ -17,6 +17,6 @@
 .greeting {
     display: flex;
 flex-direction: column}
-.photo { height: 200px;
-width: 100px;
+.photo { height: 300px;
+width: 300px;
 background-color: #735fff}
