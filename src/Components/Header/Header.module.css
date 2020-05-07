@@ -3,8 +3,9 @@
     display: flex;
     justify-content: center;
     height: 70px;
-    background-color: #92d4ff;
-
+    background-color: whitesmoke;
+    position:fixed;
+    width: 100%;
 }
 
 .container {
@@ -16,3 +17,9 @@
 }
 
 
+@media screen and (max-width:69px)
+{
+    .container {
+        width:100%}
+
+}

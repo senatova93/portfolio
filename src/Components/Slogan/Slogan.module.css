@@ -27,3 +27,16 @@ button{
     width: 90px;
     height: 40px;
 }
+
+
+
+
+@media screen and (max-width:69px)
+{
+    .slogan {
+        width:100%}
+    button {
+        width:100%
+    }
+
+}
