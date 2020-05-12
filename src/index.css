@@ -8,6 +8,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: white;
+  font-weight: 400;
+  font-stretch: normal;
+  font-size: 14px;
+  line-height: 1.8;
 }
 
 code {
