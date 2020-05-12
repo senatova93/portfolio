@@ -5,7 +5,7 @@
 /*}*/
 .container {
     height: 250px;
-    background-color: #92d6ff;
+    background-color:rgba(27, 28, 33, 0.75);
     display: flex;
     justify-content: center;
 }

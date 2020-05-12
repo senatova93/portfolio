@@ -27,7 +27,8 @@
 .footer { height: 250px;
     display: flex;
 justify-content: center;
-background-color: #735fff}
+background-color: rgba(27, 28, 33, 0.78)
+}
 .container {
     border: 1px solid;
     width: 80px;

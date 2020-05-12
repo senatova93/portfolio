@@ -1,11 +1,10 @@
 
 .main {
     height: 100vh;
-    background-color: #1f1f20;
+    background-color: rgba(27, 28, 33, 0.78) ;
     display: flex;
     justify-content: center;
 }
-
 .container {
     width: 80%;
     /*border: 1px solid;*/
@@ -28,5 +27,5 @@
 
 
 .photo { height: 300px;
-width: 300px;
-background-color: #735fff}
+width: 260px;
+}

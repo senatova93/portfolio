@@ -12,7 +12,7 @@ function Main() {
                         <h1> A frontend developer </h1>
                     </div>
                     <div className={styles.photo}>
-                        <image src=""/>
+                        <img src="https://avatars0.githubusercontent.com/u/60384489?s=460&u=9aca9ef12078a47366f574f59f53add74a5f7dd2&v=4"/>
                     </div>
 
 
