@@ -3,6 +3,18 @@
     background-color: rgba(27, 28, 33, 0.75);
     display: flex;
     justify-content: center;
+    padding: 50px 0
+}
+.line {
+    height: 1px;
+    width: 90px;
+    margin: 5px 0;
+    background-color: #735fff;
+}
+.blockTitle {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .skills{
