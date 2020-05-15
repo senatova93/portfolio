@@ -6,13 +6,14 @@ function Main() {
         <div className="App">
             <div className={styles.main}>
                 <div className={styles.container}>
-                    <div className={styles.greeting}>
-                        <span> Hi There </span>
+                    <div className={styles.greeting}><span> Hi There </span>
                         <span>I<span> am Anastasiya Senatova </span></span>
                         <h1> A frontend developer </h1>
                     </div>
                     <div className={styles.photo}>
-                        <img src="https://avatars0.githubusercontent.com/u/60384489?s=460&u=9aca9ef12078a47366f574f59f53add74a5f7dd2&v=4"/>
+
+                        <img src="https://avatars3.githubusercontent.com/u/60384489?s=460&u=b10f9c56d231e7d4ce716d23ff30895dcf70178d&v=4" alt = ""/>
+
                     </div>
 
 

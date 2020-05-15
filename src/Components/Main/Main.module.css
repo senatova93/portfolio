@@ -4,6 +4,7 @@
     background-color: rgba(27, 28, 33, 0.78);
     display: flex;
     justify-content: center;
+    padding: 50px 0px;
 }
 
 .container {
@@ -43,7 +44,7 @@
     right: -1px;
     width: 260px;
     height: 20px;
-   background-color: #de3333;
+   background-color: #090808;
     bottom: 0px;
     z-index: -1;
 
@@ -56,18 +57,29 @@ h1 {
 }
 
 
-.photo {
+.photo img {width: 350px;
+            margin-top: 60px;
+            position: relative;
+    z-index: 1;
+
+    /*margin-left: 10px;*/
 }
 .photo:before {
     content: "";
     position: absolute;
-    height: 500px;
-    width: 300px;
-    border: 5px solid red;
+    height: 360px;
+    width: 350px;
+    border: 7px solid #1d1b1b;
+
+    bottom: -8px;
+    z-index: 0;
+
 }
-img {
-    width: 250px
-}
+/*img {*/
+/*    width: 350px;*/
+/*    margin-top: 60px;*/
+
+/*}*/
 @media screen and (max-width:564px){
     .container {
         flex-wrap: wrap;
