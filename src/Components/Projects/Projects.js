@@ -10,16 +10,19 @@ function Projects() {
 
                   <div className={styles.project}>
                       <img className={styles.projectPhoto} src='' />
-                      <h4>#1 project </h4>
+                      <h4>#1 project</h4>
+                      <button>See</button>
                   </div>
 
                   <div className={styles.project}>
                       <img className={styles.projectPhoto} src='' />
                       <h4>#1 project </h4>
+                      <button>See</button>
                   </div>
                   <div className={styles.project}>
                       <img className={styles.projectPhoto} src='' />
                       <h4>#2 project</h4>
+                      <button>See</button>
                   </div>
               </div>
           </div>
